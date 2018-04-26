@@ -1,10 +1,8 @@
 {
   "name": "table-builder",
   "version": "0.1.0",
-  "homepage": "https://tarasvakulka.github.io/table-builder",
   "dependencies": {
     "bootstrap": "^4.0.0",
-    "gh-pages": "^1.1.0",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
