@@ -1,0 +1,17 @@
+.about .fill{
+    height: 90vh;
+}
+.about a {
+    color: black;
+}
+.about ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+@media screen and (max-width: 1250px) {
+    .about iframe {
+        height: 100%;
+        width: 100%;
+    }
+}

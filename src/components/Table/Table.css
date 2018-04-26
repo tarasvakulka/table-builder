@@ -1,0 +1,8 @@
+th, tr {
+    cursor: pointer;
+}
+
+.card {
+    width: 600px;
+    height: 50px;
+}
